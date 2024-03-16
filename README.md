@@ -34,7 +34,8 @@ pip install -r requirements.txt
 2. Rename sample_setting.py to local_setting.py.
 3. Follow the instructions in sample_setting.py to configure your database connection settings in local_setting.py.
 
-### Running the Application To start the application, run: 
+### Running the Application
+To start the application, run: 
 
 ```
 python main.py
