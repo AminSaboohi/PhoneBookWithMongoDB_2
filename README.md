@@ -12,7 +12,7 @@ This project is a comprehensive solution for managing a phonebook database. It c
 1. Clone the repository to your local machine:
 
 ```
-git clone 
+git clone https://github.com/AminSaboohi/PhoneBookWithMongoDB_2.git
 ```
 
 
@@ -20,7 +20,7 @@ git clone 
 2. Navigate to the project directory: 
 
 ```
-cd 
+cd     PhoneBookWithMongoDB_2
 ```
 
 3. Install the required libraries:
