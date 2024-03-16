@@ -21,5 +21,3 @@ class DatabaseManager:
                     model)
             else:
                 self.models[model] = self.mongodb_database[model]
-
-
