@@ -23,8 +23,14 @@ git clone https://github.com/AminSaboohi/PhoneBookWithMongoDB_2.git
 ```
 cd     PhoneBookWithMongoDB_2
 ```
+3. Make a virtual machine and actvate that: 
 
-3. Install the required libraries:
+```
+py -m venv venv
+venv\Scripts\activate
+```
+
+4. Install the required libraries:
 
 ```
 pip install -r requirements.txt
